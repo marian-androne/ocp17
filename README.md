@@ -1,2 +1,2 @@
 # ocp17
-Repo for OCP SE 17 preparation
+Repository for OCP SE 17 preparation
